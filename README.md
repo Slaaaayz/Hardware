@@ -33,7 +33,7 @@ Aucun problème rencontrer pour démonter le pc et ni pour le remonter.
 - **Ventirad** : *Foxconn Intel E97379-003* (~ 20 euros) 
 - **Carte mère** : *MSI Z370 GAMING PLUS* (~ 200 euros)
 - **SSD NVMe** : *Intel SSD 760p SERIES 512GB* (~ 100 euros)
-- **Boitier** : *Cooler Master*
+- **Boitier** : *Cooler Master* (~ 60 euros)
 - **HDD** : *Seagate Barracuda 1TB Sata* (~ 50 euros )
 - **Alimentation** : *Cooler Master Masterwatt lite 700w 230v 80 plus* (~ 80euros)
 
