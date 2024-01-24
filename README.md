@@ -47,8 +47,8 @@ Aucun problème rencontrer pour démonter le pc et ni pour le remonter.
 
 - Changer le Processeur, passer sur un i7 plus récent et changer carte avec car cette carte mere pas compatible 
     -  200 euros 
-    - [Exemple de Processeur]([https://www.senetic.fr/product/CM8070804491213?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_jhe0Dy6HiKE0RyQ8WaWaut41YuUUmEM1H_ra8HSS2o-eIpLjL83MaApGZEALw_wcB](https://www.amazon.fr/Intel-BX8071513400F-CPU-Core-i5-13400F/dp/B0BN61LYFB/ref=asc_df_B0BN61LYFB/?tag=googshopfr-21&linkCode=df0&hvadid=603516700034&hvpos=&hvnetw=g&hvrand=16229996171638489355&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055289&hvtargid=pla-1943055647715&psc=1&mcid=993e3d784d6037eba40db840671981ae))
-    - [Exemple de Carte mère]()
+    - [Exemple de Processeur](https://www.amazon.fr/Intel-BX8071513400F-CPU-Core-i5-13400F/dp/B0BN61LYFB/ref=asc_df_B0BN61LYFB/?tag=googshopfr-21&linkCode=df0&hvadid=603516700034&hvpos=&hvnetw=g&hvrand=16229996171638489355&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055289&hvtargid=pla-1943055647715&psc=1&mcid=993e3d784d6037eba40db840671981ae)
+    - [Exemple de Carte mère](https://www.amazon.fr/GIGABYTE-B760-Gaming-DDR4-Intel/dp/B0BPYTR6J5/ref=asc_df_B0BPYTR6J5/?tag=googshopfr-21&linkCode=df0&hvadid=603204377992&hvpos=&hvnetw=g&hvrand=17286763016013159448&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055289&hvtargid=pla-1950045639772&psc=1&mcid=1c243b48c45e307fa9b00382ad7511b5)
 
 - Changer la Carte graphique, passer sur une carte plus recente et plus puissante pour du gaming 
     - ~ 300 euros
