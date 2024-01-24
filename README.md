@@ -14,13 +14,15 @@ Aucun problème rencontrer pour démonter le pc et ni pour le remonter.
 **Voici notre procedé pour remonter le pc** :
 
 - Mettre Processeur sur CM
-- Mettre Ventirad sur Processeur
-- Mettre RAM sur CM
+- Mettre Pâte thermique
+- Mettre Ventirad sur Processeur 
+- Mettre RAM sur CM (Dual Channel donc 1 barrete sur le 2 slot et l'autre sur le 4ème)
 - Mettre SSD sur CM
 - Mettre CM dans boitier 
 - Mettre HDD dans boitier 
 - Mettre Alimentaion dans boitier 
 - Brancher tout (CM, Processeur, CG, HDD, Front Panel...)
+- Mettre la CG dans sur la CM et la brancher (la mettre sur le PCIe le plus proche du Processeur)
 
 ### Réference dans le pc et prix 
 
@@ -38,6 +40,7 @@ Aucun problème rencontrer pour démonter le pc et ni pour le remonter.
 **TOTAL** : ~ 800 euros 
 
 **Amelioration possible pour les gros gameurs:**
+
 - Changer la RAM, passer sur du 3400 MHz
     - ~ 60 euros 
     - [Exemple de RAM](https://www.amazon.fr/Corsair-Vengeance-RGB-PRO-Enthousiaste/dp/B07D1XCKWW/ref=asc_df_B07D1XCKWW/?tag=googshopfr-21&linkCode=df0&hvadid=228090165499&hvpos=&hvnetw=g&hvrand=9072037523508866536&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055289&hvtargid=pla-491049071721&psc=1&mcid=69bfb60e85cb3b00a77f3977d4625d5)
