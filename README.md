@@ -1,5 +1,27 @@
 # Labo Hardware 
 ## Demontation du PC 
+Aucun problème rencontrer pour démonter le pc et ni pour le remonter.  
+
+**Voici notre procedé pour demonter le pc** :
+- Retirer CG
+- Debrancher tous les câbles
+- Retirer Ventirad, RAM, SSD
+- Retirer CM du boitier 
+- Retirer Processeur de la CM
+- Retirer HDD du boitier 
+- Retirer Alimentation 
+
+**Voici notre procedé pour remonter le pc** :
+
+- Mettre Processeur sur CM
+- Mettre Ventirad sur Processeur
+- Mettre RAM sur CM
+- Mettre SSD sur CM
+- Mettre CM dans boitier 
+- Mettre HDD dans boitier 
+- Mettre Alimentaion dans boitier 
+- Brancher tout (CM, Processeur, CG, HDD, Front Panel...)
+
 ### Réference dans le pc et prix 
 
 - **Carte graphique** : *MSI GeForce GTX 1060 GAMING X 6G* (~ 150euros)
@@ -20,13 +42,14 @@
     - ~ 60 euros 
     - [Exemple de RAM](https://www.amazon.fr/Corsair-Vengeance-RGB-PRO-Enthousiaste/dp/B07D1XCKWW/ref=asc_df_B07D1XCKWW/?tag=googshopfr-21&linkCode=df0&hvadid=228090165499&hvpos=&hvnetw=g&hvrand=9072037523508866536&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055289&hvtargid=pla-491049071721&psc=1&mcid=69bfb60e85cb3b00a77f3977d4625d5)
 
-- Changer le Processeur, passer sur un i7 plus récent ou i5
+- Changer le Processeur, passer sur un i7 plus récent et changer carte avec car cette carte mere pas compatible 
     -  200 euros 
-    - [Exemple de Processeur]([https://www.senetic.fr/product/CM8070804491213?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_jhe0Dy6HiKE0RyQ8WaWaut41YuUUmEM1H_ra8HSS2o-eIpLjL83MaApGZEALw_wcB](https://www.amazon.fr/Intel-BX8071513400F-CPU-Core-i5-13400F/dp/B0BN61LYFB/ref=asc_df_B0BN61LYFB/?tag=googshopfr-21&linkCode=df0&hvadid=603516700034&hvpos=&hvnetw=g&hvrand=2560550210882485992&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055289&hvtargid=pla-1943055647715&psc=1&mcid=993e3d784d6037eba40db840671981ae))
+    - [Exemple de Processeur](https://www.senetic.fr/product/CM8070804491213?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_jhe0Dy6HiKE0RyQ8WaWaut41YuUUmEM1H_ra8HSS2o-eIpLjL83MaApGZEALw_wcB)
+    - [Exemple de Carte mère]()
 
 - Changer la Carte graphique, passer sur une carte plus recente et plus puissante pour du gaming 
     - ~ 300 euros
-    - [Exemple de CG 2](https://www.pccomponentes.fr/zotac-gaming-geforce-rtx-3060-twin-edge-lhr-12-go-gddr6?gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6-vHujZNHNjgyvP7dlB0SmuRmy_URdP99jnzLPze_AAU3ZKUGBqnwkaAsOMEALw_wcB)
+    - [Exemple de CG ](https://www.pccomponentes.fr/zotac-gaming-geforce-rtx-3060-twin-edge-lhr-12-go-gddr6?gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6-vHujZNHNjgyvP7dlB0SmuRmy_URdP99jnzLPze_AAU3ZKUGBqnwkaAsOMEALw_wcB)
 
 
 - [Exemple de PC PrÉbUIlD](https://9.999999999999999999999999999999999999999999999999999999.ovh/)
