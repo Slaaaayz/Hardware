@@ -2,13 +2,6 @@
 
 ## La sécurité informatique dans les environnements IoT
 
-<style>
-p {
-    text-indent: 2em; 
-    margin-left: -2em; 
-}
-</style>
-
 L'IoT (Internet des Objets) représente un domaine en pleine expansion où les dispositifs physiques sont connectés via des réseaux 
 informatiques pour collecter, échanger et analyser des données. Cette interconnexion offre des avantages considérables dans divers 
 secteurs, notamment la santé, l'industrie, les transports et les habitats intelligents. Cependant, cette prolifération d'appareils 
